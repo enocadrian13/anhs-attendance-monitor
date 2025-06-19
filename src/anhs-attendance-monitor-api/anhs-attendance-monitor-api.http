@@ -1,0 +1,6 @@
+@anhs_attendance_monitor_api_HostAddress = http://localhost:5057
+
+GET {{anhs_attendance_monitor_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
